@@ -1,4 +1,4 @@
-module github.com/akhil/fiber-url-shortener
+module github.com/cetina19/TinyURL
 
 go 1.16
 
